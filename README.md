@@ -282,6 +282,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, open an issue on GitHub or contact the maintainer at [your.email@example.com](mailto:your.email@example.com).
+For questions or support, open an issue on GitHub or contact the maintainer.
 
 **⚠️ Reminder**: Use Ultimate Bruteforcer responsibly and only with explicit permission. Ethical hacking aims to improve security, not exploit it.
